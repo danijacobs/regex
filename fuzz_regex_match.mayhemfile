@@ -1,0 +1,9 @@
+# Project name 
+project: regex
+
+# target name 
+target: fuzz_regex_match
+
+# target commands 
+cmds:
+  - cmd: /fuzz_regex_match
